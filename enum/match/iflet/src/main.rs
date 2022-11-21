@@ -1,4 +1,4 @@
-
+// Una forma de hacerlo. La otra forma, ver matchrs
 fn main() {
     fn plus_one(x: Option<i32>) -> Option<i32> {
         if let Some(i) = x {
